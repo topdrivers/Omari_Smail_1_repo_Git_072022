@@ -12,18 +12,18 @@ téléphone \"autoriser le déboguage USB\".
 3\. Sur android studio le menu déroulant \"device available\" affiche la
 marque de votre téléphone.
 
-![github](https://github.com/topdrivers/entrevoisin/images/blob/master/image1.png)
+![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/blob/master/image1.png)
 
 4\. Sélectionner dans le menu déroulant \"select run/Debug
 Configuration\" choisir l\'opion \"app\" si ce n\'est pas déjà le cas
 
-![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/images/blob/master/image2.png)}
+![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/blob/master/image2.png)}
 
 5\. Appuyer sur le bouton icone Run \'app\' ou à partir du menu Run -\>
 Run \'app\'. Patienter et attendre que l\'application se charge sur
 votre téléphone
 
-![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/images/blob/master/Image3.png)}
+![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/blob/master/Image3.png)}
 
 **Compiler et exécuter l\'appli à partir d\'un device virtuel :**
 
@@ -32,7 +32,7 @@ votre téléphone
 2\. Appuyer sur le bouton \"create device\" dans la fenêtre \"Device
 manager\"
 
-![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/images/blob/master/Image4.png)}
+![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/blob/master/Image4.png)}
 
 3\. Sélectionner la catégorie du device souhaité et ajouter le.
 
