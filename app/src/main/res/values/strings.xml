@@ -3,7 +3,7 @@
     <string name="tab_neighbour_title">My neighbours</string>
     <string name="tab_favorites_title">Favorites</string>
     <string name="activity_new_neighbour">New neighbour</string>
-    
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="textview_name_for_test">Caroline</string>
     <string name="fragment_details_profile_name">Your Name</string>
