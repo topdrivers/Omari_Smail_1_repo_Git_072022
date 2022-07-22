@@ -38,7 +38,7 @@ manager\"
 
 4\. Sélectionner ce dernier dans le menu déroulant \"device available\"
 
-![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/images/blob/master/Image5.png)}
+![github](https://github.com/topdrivers/Omari_Smail_1_repo_Git_072022/blob/master/Image5.png)}
 
 5\. Appuyer sur le bouton icone Run \'app\' ou à partir du menu Run -\>
 Run \'app\'. Patienter et attendre que l\'application se charge sur
